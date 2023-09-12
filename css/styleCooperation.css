@@ -84,3 +84,8 @@ body {
     border-radius: 50px;
     background-color: black;
 }
+
+.link {
+    text-decoration: none;
+    color:#C44900; 
+}

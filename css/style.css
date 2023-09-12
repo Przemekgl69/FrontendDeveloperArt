@@ -5,17 +5,17 @@ body {
     height: 100%;
     background-image: url("../images/rust4.jpg");
     background-size: cover;
-    
+
 
 }
 
 .container {
     display: grid;
     grid-template-columns: 250px 1000px;
-    
+
     gap: 3%;
     row-gap: 40px;
-    
+
     align-items: center;
     text-align: center;
     font-size: xx-large;
@@ -75,14 +75,14 @@ body {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
     margin-bottom: 130px;
-    
+
 }
 
 
 
 .item__sample__projects__ininside {
     display: grid;
-    
+
 }
 
 .item__sample__projects__ininside_images {
@@ -93,5 +93,10 @@ body {
 }
 
 .item__sample__projects__ininside_images:hover {
- transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.link {
+    text-decoration: none;
+    color:#C44900; 
 }
