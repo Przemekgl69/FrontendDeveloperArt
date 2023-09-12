@@ -75,4 +75,12 @@ body {
     margin-bottom: 130px;
     font-family: 'Teko', sans-serif;
     color: #C44900;
+    
+}
+
+.cooperation__box__text {
+    border: solid;
+    border-color: #C44900;
+    border-radius: 50px;
+    background-color: black;
 }
